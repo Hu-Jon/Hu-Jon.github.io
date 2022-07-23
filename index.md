@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/Hu-Jon/Hu-Jon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- 姓名：胡军
+- 手机：130 1126 7770（微信同号）
+- 邮箱：[HHJJ@live.com](mailto:HHJJ@LIVE.COM)
+- 微信：Hu_Jon
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 求职意向
 
-### Markdown
+- 期望职位：合成师；合成组长
+- 期望城市：北京
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 教育经历
 
-```markdown
-Syntax highlighted code block
+| 学校         | 学历，专业   | 时间              |
+| ------------ | ------------ | ----------------- |
+| 江西农业大学 | 电脑艺术设计 | 2015.09 - 2018.06 |
+| 火星时代     | 影视后期合成 | 2018.01 ~ 2018.07 |
 
-# Header 1
-## Header 2
-### Header 3
+## 工作经历
 
-- Bulleted
-- List
+**非凡影界文化传媒股份有限公（2018 年 7月 ~ 2019 年 7月 ）**
 
-1. Numbered
-2. List
+- **职位**：后期合成师
 
-**Bold** and _Italic_ and `Code` text
+- **工作内容**：负责抠像、画面修理、擦除、合成与特效合成；
 
-[Link](url) and ![Image](src)
-```
+    ​					匹配CG与实拍素材的色彩、光影、真实度等，使镜头光效和氛围得到提升；
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    ​					深度参与两部影视剧抠像擦除及合成。
 
-### Jekyll Themes
+**三二视觉文化传播 （2019 年 7月 ~ 2021 年 7月 ）**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hu-Jon/Hu-Jon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **职位**：合成组长
 
-### Support or Contact
+- **工作内容**：从0-1建立公司后期Pipeline；
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    ​					特种电影制作；
+
+    ​					大屏互动视频二转三制作；
+
+    ​					MG动画项目制作；
+
+    ​					特效跟组并现场处理大量水下视效镜头问题；
+
+    ​					与甲方（导演）进行交流，理解其需求、风格、文案等，按照要求完成后期工作；
+
+    ​					负责主要视效镜头制作及技术测试。
+
+    **大连华澜影视文化有限公司 （2021 年 9月 ~ 至今 ）**
+
+    - **职位**：合成师
+
+    - **工作内容**：负责影视剧、网络电影的后期特效合成工作；
+
+        ​					培训学员，总结经验整理成文档形成培训资料；
+
+        ​					制作NUKE工具提高工作效率。
+
+## 个人评价
+
+*   热爱视效，熟练掌握NUKE，了解Python；较好的理解专业理论知识，并运用到实践中；
+*   拥有四年视效制作经验，前期特效跟组经验，对前后期流程有一定的了解；
+*   擅长研究软件技术，带过6人团队，自我知识库整理归纳；
+*    希望1年内提高审美意识，不断探索更完美的视效镜头，突破自己；
+*   希望3年内能够具备各等级镜头的定版能力，完成高质量的视效镜头。
+
+## 感谢阅读
+
+感谢您花时间阅读我的简历，期待能与您共事！
